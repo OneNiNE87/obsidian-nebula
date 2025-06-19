@@ -1,8 +1,5 @@
-/* Montserrat */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-
 :root {
-  --nice-font: "Myuppy", "Montserrat", "Roboto", "Segoe Print", sans-serif;
+  --nice-font: "Myuppy", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --mono-font: "Source Code Pro", "Consolas", monospace;
 }
 
@@ -323,6 +320,7 @@ span.cm-link {
   text-decoration: none !important;
   transition: color ease-out 150ms;
 }
+
 .theme-dark a:hover,
 .theme-dark .cm-hmd-internal-link:hover {
   color: #fbd1d1 !important;
