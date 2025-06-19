@@ -178,13 +178,10 @@ img:not(.img-view) {
 }
 
 /*group title*/
-.vertical-tab-header-group {
-  /*padding: 0px 0; */
-}
 
-.vertical-tab-header-group-title {
-  /*background: #000;*/
-}
+/* .vertical-tab-header-group-title {
+  background: #000;
+} */
 
 /*background*/
 .modal-bg {
