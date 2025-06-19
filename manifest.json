@@ -1,7 +1,10 @@
-{  
-   "name": "Nebula",  
-   "version": "1.0.0",  
-   "minAppVersion": "1.0.0",  
-   "author": "dlccyes",  
-   "authorUrl": "https://github.com/dlccyes"  
+{
+   "name": "Nebula",
+   "version": "1.0.0",
+   "minAppVersion": "1.0.0",
+   "author": "dlccyes, OneNiNE87",
+   "authorUrl": "https://github.com/OneNiNE87/obsidian-nebula",
+   "description": "A modern, performance-optimized theme with beautiful nebula-inspired aesthetics. Features system fonts, clean design, and minimalist sidebar.",
+   "originalAuthor": "dlccyes",
+   "originalAuthorUrl": "https://github.com/dlccyes/obsidian-nebula"
 }
